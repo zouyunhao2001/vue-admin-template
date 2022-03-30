@@ -1,7 +1,7 @@
 <template>
   <div class="login-container">
     <div class="title-container">
-      <p class="insd">E购&后台管理系统</p>
+      <p class="insd">E购&后台管理系</p>
     </div>
     <el-form
       ref="loginForm"
